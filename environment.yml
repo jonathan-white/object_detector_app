@@ -45,5 +45,5 @@ dependencies:
   - tensorflow==1.2.0
   - werkzeug==0.12.2
   - scipy
-prefix: /Users/datitran/anaconda/envs/object-detection
+prefix: /Users/[your_username]/anaconda3/envs/object-detection
 
